@@ -1,0 +1,4 @@
+yarn run build
+sudo npm link
+
+gen-schema
